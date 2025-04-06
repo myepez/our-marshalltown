@@ -1,0 +1,13 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Our Marshalltown
+theme: PaperMod
+sectionPagesMenu: main
+Params:
+  homeInfoParams:
+      Title: Our Marshalltown
+      Content: |
+        My name is Marco Yepez-Gomez and here is where I write my thoughts for creating a better Marshalltown that is prosperous for everyone to enjoy.
+        I just do this for the love of the town
+  ShowReadingTime: true
+  author: ["Marco Yepez-Gomez"]
