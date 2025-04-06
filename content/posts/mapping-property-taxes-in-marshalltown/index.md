@@ -1,6 +1,5 @@
 ---
 date: '2025-04-06T11:49:07-05:00'
-draft: true
 title: 'Mapping Property Taxes in Marshalltown: A Fresh Perspective on City Investment'
 cover:
     image: "propertyTaxRatesMap.PNG"

@@ -6,6 +6,21 @@
     <description>Recent content in Categories on Our Marshalltown</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 11:49:07 -0500</lastBuildDate>
     <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Findings</title>
+      <link>https://example.org/categories/findings/</link>
+      <pubDate>Sun, 06 Apr 2025 11:49:07 -0500</pubDate>
+      <guid>https://example.org/categories/findings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strong Towns</title>
+      <link>https://example.org/categories/strong-towns/</link>
+      <pubDate>Sun, 06 Apr 2025 11:49:07 -0500</pubDate>
+      <guid>https://example.org/categories/strong-towns/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Findings on Our Marshalltown</title>
-    <link>http://localhost:1313/categories/findings/</link>
+    <link>https://example.org/categories/findings/</link>
     <description>Recent content in Findings on Our Marshalltown</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Apr 2025 11:49:07 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/findings/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/categories/findings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mapping Property Taxes in Marshalltown: A Fresh Perspective on City Investment</title>
-      <link>http://localhost:1313/posts/mapping-property-taxes-in-marshalltown/</link>
+      <link>https://example.org/posts/mapping-property-taxes-in-marshalltown/</link>
       <pubDate>Sun, 06 Apr 2025 11:49:07 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mapping-property-taxes-in-marshalltown/</guid>
+      <guid>https://example.org/posts/mapping-property-taxes-in-marshalltown/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://myepez.github.io/marshalltown-ia/marshalltown_tax_rate.html&#34;&gt;Marshalltown Property Tax Rates Map&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;the-motivation-to-create-the-map&#34;&gt;The Motivation To Create The Map&lt;/h1&gt;
 &lt;p&gt;This project was inspired, in part, by the work of Strong Towns, whose thoughtful approach to local development and land use prompted me to look at Marshalltown through a new lens. Their emphasis on understanding the financial productivity of places encouraged me to ask a simple question: Are we investing public dollars in a way that reflects where our city’s value is actually being generated?&lt;/p&gt;</description>
